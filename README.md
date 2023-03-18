@@ -29,3 +29,5 @@ Hybrid-Crowd is a blockchain-based crowdfunding application that allows users to
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
+
+![LUMO](master/client/src/assets/thirdweb.png)
