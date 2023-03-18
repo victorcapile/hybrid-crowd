@@ -3,7 +3,7 @@
 # Hybrid-Crowd
 
 ## Overview
-Hybrid-Crowd is a blockchain-based crowdfunding application that allows users to create and fund projects with blockchain technology (as well as regular fiat money). 
+Hybrid-Crowd is a blockchain-based crowdfunding application that allows users to create, fund and participate in projects with blockchain technology (as well as regular fiat money). 
 
 ## Features
 - Create a project with a funding goal and timeline
