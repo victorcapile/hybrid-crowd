@@ -20,7 +20,7 @@ const Sidebar = () => {
 
   return (
     
-    <div className="flex justify-between items-center flex-col sticky top-4 h-[40vh]">
+    <div className="sticky top-4 h-[40vh]">
 
       <Link to="/">
         <Icon styles="w-[95px] h-[80px]" imgUrl={logo} />
@@ -41,11 +41,13 @@ const Sidebar = () => {
               }}
             />
           ))}
-          
-        </div>
         
+        </div>
+      
+
       </div>
       
+
     </div>
   )
 }
