@@ -1,4 +1,4 @@
-![LUMO](master/client/src/assets/logo2.png)
+![LUMO](master/client/src/assets/lumosymbol.png)
 
 # Hybrid-Crowd
 
