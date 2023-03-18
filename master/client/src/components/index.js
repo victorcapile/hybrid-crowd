@@ -7,3 +7,4 @@ export { default as FundCard } from './FundCard';
 export { default as CountBox } from './CountBox';
 export { default as Loader } from './Loader';
 export { default as TopCreators } from './TopCreators';
+export { default as TopProject } from './TopProject';

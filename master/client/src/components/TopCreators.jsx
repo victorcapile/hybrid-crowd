@@ -60,4 +60,4 @@ const TopCreators = () => {
   );
 };
 
-export default TopCreators;
+export default TopCreators
