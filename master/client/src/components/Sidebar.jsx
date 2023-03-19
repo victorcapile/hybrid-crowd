@@ -22,12 +22,8 @@ const Sidebar = () => {
     
     <div className="sticky top-4 h-[40vh]">
 
-      <Link to="/">
-        <Icon styles="w-[95px] h-[80px]" imgUrl={logo} />
-      </Link>
-
-      <div className="flex-1 flex flex-col justify-between items-center bg-[#1c1c24] rounded-[20px] w-[76px] py-4 mt-12">
-        <div className="flex flex-col justify-center items-center gap-5">
+      <div className="flex-1 flex flex-col justify-between items-center bg-[#1c1c24] rounded-[25px] w-[80px] py-4">
+        <div className="flex flex-col justify-center items-center gap-8">
           {navlinks.map((link) => (
             <Icon 
               key={link.name}

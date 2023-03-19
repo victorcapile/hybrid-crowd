@@ -1,7 +1,7 @@
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
 
-import { Sidebar, Navbar, TopCreators, TopProject } from './components';
+import { Sidebar, Navbar, TopProject } from './components';
 import { CampaignDetails, CreateCampaign, Home, Profile } from './pages';
 
 
@@ -19,7 +19,6 @@ const App = () => {
       
       <Navbar />
       
-      <TopProject/>
 
         <Routes>
           <Route path="/" element={<Home />} />
@@ -30,7 +29,6 @@ const App = () => {
       </div>
     
       <div className="inline">
-      <TopCreators />
       </div>
     </div>
   )

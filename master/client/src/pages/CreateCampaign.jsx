@@ -73,14 +73,6 @@ const CreateCampaign = () => {
             handleChange={(e) => handleFormFieldChange('description', e)}
           />
 
-        <FormField 
-            labelName="Roadmap *"
-            placeholder="Explique aqui as etapas do seu projeto"
-            inputType="file"
-            value={form.deadline}
-            handleChange={(e) => handleFormFieldChange('deadline', e)}
-          />
-
         <div className="w-full flex justify-start items-center p-4 bg-[#C92FC4] h-[120px] rounded-[10px]">
           <img src={money} alt="money" className="w-[40px] h-[40px] object-contain"/>
           <h4 className="font-epilogue font-bold text-[25px] text-white ml-[20px]">Você receberá 100% do valor arrecadado!</h4>
