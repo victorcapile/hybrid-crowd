@@ -2,7 +2,7 @@
 # Hybrid-Crowd
 
 ## Overview
-Hybrid-Crowd is a blockchain-based crowdfunding application that allows users to create, fund and participate in projects with blockchain technology (as well as regular fiat money). 
+Blockchain-based crowdfunding application that allows users to create, fund and participate in projects with blockchain technology (as well as regular fiat money). 
 
 ## Features
 - Create a project with a funding goal and timeline
@@ -26,7 +26,7 @@ Hybrid-Crowd is a blockchain-based crowdfunding application that allows users to
 4. Access the application at http://localhost:3000
 
 ## Contributors
-- [Victor Capilé ](https://github.com/victorcapile) - Developer
+- [Victor Capilé ](https://github.com/victorcapile)
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
