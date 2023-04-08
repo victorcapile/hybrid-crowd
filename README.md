@@ -1,5 +1,5 @@
 
-# Hybrid-Crowd
+# IARA
 
 ## Overview
 Blockchain-based crowdfunding application that allows users to create, fund and participate in projects with blockchain technology (as well as regular fiat money). 
