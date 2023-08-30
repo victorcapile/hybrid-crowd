@@ -16,15 +16,9 @@ const DisplayCampaigns = ({ title, isLoading, campaigns }) => {
 {/* Top Projetos  */}
       <div>
       <h1 className="font-epilogue font-semibold text-[18px] text-white text-left">Top Projetos ({campaigns.length})</h1>
-      <div className="flex flex-wrap mt-[20px] gap-[15px]">
+      <div className="flex flex-wrap mt-[20px] gap-[40px]">
         {isLoading && (
           <Loader/>
-        )}
-
-        {!isLoading && campaigns.length === 0 && (
-          <p className="font-epilogue font-semibold text-[14px] leading-[30px] text-[#818183]">
-            Você ainda não criou nenhuma campanha!
-          </p>
         )}
 
         {!isLoading && campaigns.length > 0 && campaigns.map((campaign) => <FundCard 
